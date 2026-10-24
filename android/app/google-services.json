@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "682841687828",
+    "project_id": "austlinepos-8df37",
+    "storage_bucket": "austlinepos-8df37.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682841687828:android:9429221dfd19b83e2be401",
+        "android_client_info": {
+          "package_name": "com.example.austline_pos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXW1M4YdzScJ30IQq55Jk3HjMbZSzlk0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
